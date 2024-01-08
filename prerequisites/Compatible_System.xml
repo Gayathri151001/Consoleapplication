@@ -1,0 +1,133 @@
+<prechecker>
+	<Intel_Compatibility>
+		<MTL>
+			<Name>Windows 11</Name>
+			<Build>22621</Build>
+			<Architecture>x64</Architecture>
+			<Space>2048</Space>
+			<ReturnCode>70104</ReturnCode>
+		</MTL>
+
+		<ADL>
+			<Name>Windows 11</Name>
+			<Build>22621</Build>
+			<Architecture>x64</Architecture>
+			<Space>2048</Space>
+			<ReturnCode>70103</ReturnCode>
+		</ADL>
+
+		<RPL>
+			<Name>Windows 11</Name>
+			<Build>22621</Build>
+			<Architecture>x64</Architecture>
+			<Space>2048</Space>
+			<ReturnCode>70102</ReturnCode>
+		</RPL>
+		<TestRVP>
+			<Name>Windows 11</Name>
+			<Build>22621</Build>
+			<Architecture>x64</Architecture>
+			<Space>2048</Space>
+			<ReturnCode>70105</ReturnCode>
+		</TestRVP>
+	</Intel_Compatibility>
+
+	<AMD_Compatibility>
+		<Compatible_System>
+			<Name>Windows 11</Name>
+			<Build>22621</Build>
+			<Architecture>x64</Architecture>
+			<Space>2048</Space>
+			<ReturnCode>75101</ReturnCode>
+		</Compatible_System>
+	</AMD_Compatibility>
+
+
+<processorname>
+	<ADL>
+		<name>Intel(R) Core(TM) i9-12900KS</name>
+		<name> Intel(R) Core(TM) i9-12900K</name>
+		<name>Intel(R) Core(TM) i9-12900KF</name>
+		<name>Intel(R) Core(TM) i9-12900</name>
+		<name>Intel(R) Core(TM) i9-12900F</name>
+		<name>Intel(R) Core(TM) i9-12900T</name>
+		<name>Intel(R) Core(TM) i7-12700K</name>
+		<name>Intel(R) Core(TM) i7-12700KF</name>
+		<name>Intel(R) Core(TM) i7-12700</name>
+		<name>Intel(R) Core(TM) i7-12700F</name>
+		<name>Intel(R) Core(TM) i7-12700T</name>
+		<name>Intel(R) Core(TM) i5-12600K </name>
+		<name>Intel(R) Core(TM) i5-12600KF</name>
+		<name>Intel(R) Core(TM) i5-12600 </name>
+		<name>Intel(R) Core(TM) i5-12600T</name>
+		<name>Intel(R) Core(TM) i5-12400</name>
+		<name>Intel(R) Core(TM) i5-12400F</name>
+		<name>Intel(R) Core(TM) i5-12400T</name>
+		<name>Intel(R) Core(TM) i5-12500</name>
+		<name>Intel(R) Core(TM) i5-12500T</name>
+		<name>Intel(R) Core(TM) i3-12100F</name>
+		<name>Intel(R) Core(TM) i3-12100</name>
+		<name> Intel(R) Core(TM) i3-12300</name>
+		<name>Intel(R) Core(TM) i3-12300T</name>
+		<name>Intel(R) Core(TM) i3-12100T</name>
+		<name>Intel(R) Pentium(R) Gold G7400</name>
+		<name>Intel(R) Pentium(R) Gold G7400T</name>
+		<name>Intel(R) Celeron® G6900</name>
+		<name>Intel(R) Celeron® Processor G6900T</name>
+		<name>Intel(R) Q670 Chipset</name>
+		<name>Intel(R) W680 Chipset</name>
+		<name>Intel(R) H610 Chipset</name>
+		<name>Intel(R) H670 Chipset</name>
+		<name>Intel(R) B660 Chipset</name>
+		<name>Intel(R) Z690 Chipset</name>
+		
+	</ADL>
+	<RPL>
+		
+
+		<name>Intel(R) Core(TM) i9-13900KS</name>
+		
+		<name>Intel(R) Core(TM) i9-13900K</name>
+		<name>Intel(R) Core(TM) i9-13900KF</name>
+		<name>Intel(R) Core(TM) i9-13900</name>
+		<name>Intel(R) Core(TM) i9-13900T</name>
+		<name>Intel(R) Core(TM) i9-13900F </name>
+		<name>Intel(R) Core(TM) i7-13790F</name>
+		<name>Intel(R) Core(TM) i7-13700K</name>
+		<name>Intel(R) Core(TM) i7-13700KF </name>
+		<name>Intel(R) Core(TM) i7-13700 </name>
+		<name>Intel(R) Core(TM) i7-13700F </name>
+		<name>Intel(R) Core(TM) i7-13700T</name>
+		<name>Intel(R) Core(TM) i3-13100 </name>
+		<name>Intel(R) Core(TM) i3-13100F </name>
+		<name>Intel(R) Core(TM) i3-13100T</name>
+		<name>Intel(R) Core(TM) i5-13600K</name>
+		<name>Intel(R) Core(TM) i5-13600KF </name>
+		<name>Intel(R) Core(TM) i5-13600 </name>
+		<name>Intel(R) Core(TM) i5-13600T </name>
+		<name>Intel(R) Core(TM) i5-13500 </name>
+		<name>Intel(R) Core(TM) i5-13500T </name>
+		<name>Intel(R) Core(TM) i5-13400F</name>
+		<name>Intel(R) Core(TM) i5-13400</name>
+		<name>Intel(R) Core(TM) i5-13400T</name>
+		<name>Intel(R) Core(TM) i9 14900K</name>
+		<name>Intel(R) Core(TM) i9 14900KF</name>
+		<name>Intel(R) Core(TM) i7 14700K</name>
+		<name>Intel(R) Core(TM) i7 14700KF</name>
+		<name>Intel(R) Core(TM) i5 14600K</name>
+		<name>Intel(R) Core(TM) i5 14600KF</name>
+		<name>Intel(R) Z790 Chipset</name>
+		<name>Intel(R) H770 Chipset</name>
+		
+	</RPL>
+	<TestRVP>
+		<name>Intel(R) 0000</name>
+	</TestRVP>
+</processorname>
+<HardwareID>
+	<Id>SOUNDWIRE\SDCA_06&amp;MAN_0102&amp;FUNC_0001&amp;TYPE_01&amp;VER_00&amp;ADR_01&amp;LID_02&amp;UID_0A&amp;SUBSYS_230917AA</Id>
+	<Id>SOUNDWIRE\SDCA_06&amp;MAN_0102&amp;FUNC_0001&amp;TYPE_01&amp;VER_00&amp;ADR_01&amp;LID_03&amp;UID_0C&amp;SUBSYS_230917AA</Id>
+	<Id>SOUNDWIRE\SDCA_06&amp;MAN_0102&amp;FUNC_0001&amp;TYPE_01&amp;VER_00&amp;ADR_01&amp;LID_02&amp;UID_09&amp;SUBSYS_230917AA</Id>
+	<Id>SOUNDWIRE\SDCA_06&amp;MAN_0102&amp;FUNC_0001&amp;TYPE_01&amp;VER_00&amp;ADR_01&amp;LID_03&amp;UID_0B&amp;SUBSYS_230917AA</Id>
+</HardwareID>
+</prechecker>
